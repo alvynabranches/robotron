@@ -3,23 +3,25 @@ Class 7th Problems
 02. convert from kms to miles
 03. convert pounds to kg
 04. convert kg to grams
-05. find the area of circle => Area = (22/7) * radius**2
-06. find the area of rectangle => Area = length * breath
-07. find the area of cube => Area = 6 * (length or breath)**2
-08. find the area of cuboid => Area = 2(length * breath + breath * height + height * length)
-09. find the volumne of cube => Volumne = length**3
-10. find the volumne of sphere => Volumne = 4/3 * (22/7) * radius**3
-11. find the volumne of cylinder => Volumne = (22/7) * radius**2 * height
+05. convert degrees to kelvins
+06. convert kelvins to degrees
+07. find the area of circle => Area = (22/7) * radius**2
+08. find the area of rectangle => Area = length * breath
+09. find the area of cube => Area = 6 * (length or breath)**2
+10. find the area of cuboid => Area = 2(length * breath + breath * height + height * length)
+11. find the volumne of cube => Volumne = length**3
+12. find the volumne of sphere => Volumne = 4/3 * (22/7) * radius**3
+13. find the volumne of cylinder => Volumne = (22/7) * radius**2 * height
 
 Class 8th problems
-12. find a discount price
-13. find the area of right circular cone => Area = (22/7) * radius * (length + radius)
-14. find the volumne of right circular cone => Volumne = (1/3) * (22/7) * radius**2 * height
-15. find the area of sphere => Area = 4 * (22/7) * radius**2
-16. find the volumne of sphere => Volumne = (4/3) * (22/7) * radius**3
-17. find the area of hemisphere => Area = 3 * (22/7) * radius**2
-18. find the volumne of hemisphere => Volumne = (2/3) * (22/7) * radius**3
-19. find the area of a trinagle => Area = 0.5 * base * height
+14. find a discount price
+15. find the area of right circular cone => Area = (22/7) * radius * (length + radius)
+16. find the volumne of right circular cone => Volumne = (1/3) * (22/7) * radius**2 * height
+17. find the area of sphere => Area = 4 * (22/7) * radius**2
+18. find the volumne of sphere => Volumne = (4/3) * (22/7) * radius**3
+19. find the area of hemisphere => Area = 3 * (22/7) * radius**2
+20. find the volumne of hemisphere => Volumne = (2/3) * (22/7) * radius**3
+21. find the area of a trinagle => Area = 0.5 * base * height
 
-perimeter of square    => P = 4 * (length of sides)
-perimeter of rectangle => P = 
+22. find the perimeter of square    => P = 4 * (length of sides)
+23. find the perimeter of rectangle => P = 

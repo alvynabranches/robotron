@@ -7,6 +7,6 @@
 7. Area of Circle $A = {\pi r^2}$, where r = radius of circle
 8. Circumference of Circle $ C = {2\pi r} $, where r = radius of circle
 9. Surface Area of Cube $ S = {6a^2} $, where a = length of the sides of cube
-10. Curved surface area of Cylinder $ S = {2\pi rh} $, where r = radius of the base of cylinder; h = height of cylinder
-11. Volume of Cylinder $ V = {\pi r^2h} $, where r = radius of the base of cylinder; h = height of cylinder
+10. Curved surface area of Cylinder $$ S = {2\pi rh} $$, where r = radius of the base of cylinder; h = height of cylinder
+11. Volume of Cylinder $$ V = {\pi r^2h} $$, where r = radius of the base of cylinder; h = height of cylinder
 12. 
