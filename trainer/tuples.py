@@ -5,6 +5,7 @@
 # -> Defining a empty tuple 
 a = ()
 print(type(a))
+
 b = tuple()
 print(type(b))
 
@@ -12,18 +13,21 @@ print(type(b))
 c = (1,)
 print(c)
 
-# -> Defining a tuple with multiple data
-d = (10, 12, 15, 25, 35)
+d = tuple(1,)
 print(d)
 
-e = (1.2, 25.20, 19.55, 45.32)
+# -> Defining a tuple with multiple data
+e = (10, 12, 15, 25, 35)
 print(e)
+
+f = (1.2, 25.20, 19.55, 45.32)
+print(f)
 
 # -> Unmutablity
 # e[1] = 5 -> This code will give an error BUT SHOULD BE SHOWN TO THE STUDENTS
 
 # -> Finding length of the tuple
-length = len(e)
+length = len(f)
 print(length)
 
 # -> Indexing
